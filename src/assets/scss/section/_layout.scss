@@ -4,6 +4,7 @@
     top: 0;
     width: 260px;
     height: 100%;
+    overflow-y: auto;
     z-index: 10000;
     background-color: #000;
 }
@@ -18,4 +19,4 @@
     text-align: center;
     background-color: #333;
     padding: 20px 20px 20px 260px;
-} 
+}
