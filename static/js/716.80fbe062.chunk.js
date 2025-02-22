@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkwebs_youtube=self.webpackChunkwebs_youtube||[]).push([[716],{716:(e,s,t)=>{t.r(s),t.d(s,{default:()=>b});t(43);var u=t(89),n=t(579);const b=()=>(0,n.jsx)(u.A,{title:"\uc720\ud29c\ube0c \ucc44\ub110",description:"\uc720\ud29c\ube0c \ucc44\ub110\ud398\uc774\uc9c0\uc785\ub2c8\ub2e4.",children:"Channel"})}}]);
+//# sourceMappingURL=716.80fbe062.chunk.js.map
