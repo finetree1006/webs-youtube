@@ -18,7 +18,7 @@ const Not = lazy(() => import('./pages/Not'));
 
 const App = () => {
     return (
-        <BrowserRouter>
+        <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Suspense fallback={<Main />}>
             <Routes>
                 <Route path='/' element={<Home />} />
