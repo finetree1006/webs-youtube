@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom'
 const Website = () => {
   return (
     <section id='website'>
-      <h2>😛 웹표준 사이트 만들기 기초 다지기</h2>
+      <h2></h2>
       <div className='video__inner'>
         {websiteText.map((video, key) => (
           <div className="video" key={key}>
