@@ -43,6 +43,7 @@ const searchPageClass = loading ? 'isLoading' : 'isLoaded';
             description="유튜브 검색 결과 페이지입니다.">
 
             <section id='searchPage' className={searchPageClass}>
+                <h2><em>{searchId}</em> 검색 결과입니다.</h2>
                 <div className="video__inner search">
                     <VideoSearch videos={videos} />
                 </div>

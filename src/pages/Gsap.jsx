@@ -23,7 +23,7 @@ const Gsap = () => {
             <section id='gsapPage' className={gsapPageClass}>
                 <h2>😄 창의적 사이트를 만들고 싶다면!</h2>
                 <div className="video__inner">
-                    <VideoCard video={gsapText} />
+                    <VideoCard videos={gsapText} />
                 </div>
             </section>
         </Main>
