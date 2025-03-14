@@ -8,6 +8,7 @@ import Search from './Search'
 const Main = ( props ) => {
     return (
         <HelmetProvider>
+            <scrollTo />
             <Helmet 
                 titleTemplate="%s | Webs Youtube" 
                 defaultTitle="Webs Youtube" 
